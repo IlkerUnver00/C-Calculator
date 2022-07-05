@@ -1,0 +1,6 @@
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\bin\Debug\Vektorel.HesapMakinesi.App.exe.config
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\bin\Debug\Vektorel.HesapMakinesi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\bin\Debug\Vektorel.HesapMakinesi.App.pdb
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\obj\Debug\Vektorel.HesapMakinesi.App.csprojResolveAssemblyReference.cache
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\obj\Debug\Vektorel.HesapMakinesi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.HesapMakinesi.App\obj\Debug\Vektorel.HesapMakinesi.App.pdb
